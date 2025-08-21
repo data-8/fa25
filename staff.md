@@ -20,8 +20,8 @@ nav_order: 4
 
 Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)
 
+<!-- 
 ## Instructors
-
 <div class="role flex">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -69,3 +69,4 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 {% endfor %}
 {% endif %}
 </div>
+-->

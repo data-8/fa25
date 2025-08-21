@@ -1,13 +1,13 @@
-# DATA 8 Spring 2025
+# DATA 8 Fall 2025
 
-Managed by Spring 2025 #TeamContent: 
-* Leads: Ella DeGuzman and Brandon Su
+Managed by Fall 2025 #TeamContent: 
+* Leads: Marissa Lumpkin and Isaac Chung
 * Members: TBD
 
 [![Pages Deployment](https://github.com/data-8/sp25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-8/sp25/actions/workflows/jekyll.yml) •
 [![a11y specs](https://github.com/data-8/sp25/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-8/sp25/actions/workflows/rspec.yml)
 
-The https://www.data8.org/sp25/ website.
+The https://www.data8.org/fa25/ website.
 
 ## Installation
 
@@ -23,7 +23,7 @@ git clone git@github.com:YOUR_GITHUB_USERNAME/YOUR_REPO.git
 ```
 3. Install dependencies:
 ```
-cd sp25
+cd fa25
 bundle install
 ```
 

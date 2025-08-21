@@ -9,7 +9,7 @@ permalink: /
 # **Data 8: Foundations of Data Science**
 
 {: .mb-2 }
-UC Berkeley, Spring 2025
+UC Berkeley, Fall 2025
 {: .mb-2 .fs-6}
 
 [Ed](https://edstem.org/us/courses/73504/discussion){: .btn .btn-ed}
@@ -17,7 +17,7 @@ UC Berkeley, Spring 2025
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1542000/external_tools/90481){: .btn .btn-bcourses}
 [Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
 [Extensions](https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform){: .btn .btn-extensions}
-[Jump to Current Week](https://www.data8.org/sp25/#week-{{site.current_week}}){: .btn .btn-currweek}
+[Jump to Current Week](https://www.data8.org/fa25/#week-{{site.current_week}}){: .btn .btn-currweek}
 
 {% include announcements-navigation.html %}
 

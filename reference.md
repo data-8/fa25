@@ -22,7 +22,7 @@ Contributions by Jonathan Ferrari, Updated and Maintained by Edwin Vargas and Bi
 
 ## Abbreviated Reference Sheet
 
-For Spring 2025, students will receive an abbreviated reference sheet for exams.
+For Fall 2025, students will receive an abbreviated reference sheet for exams.
 
 **Note:** Some concepts on the reference sheet is out of scope for the midterm, including but not limited to -- Bayes’ Rule, Correlation Coefficient, Regression Line in Standard Units, Percent of data within k SDs of the mean table
 

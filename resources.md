@@ -51,7 +51,7 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 
 Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
 
-For the Spring 2025 midterm and final, students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1W2y9_W2U_AF4KAdpxeTd59YIDIUK-zM9/view).
+For the Fall 2025 midterm and final, students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1W2y9_W2U_AF4KAdpxeTd59YIDIUK-zM9/view).
 
 > **Note:** Semesters taught by Prof. Ani Adhikari, Prof. John DeNero, and/or Prof. David Wagner are marked with a 📍. These are the exams you should focus on, as they are most consistent with the learning goals of this semester.
 

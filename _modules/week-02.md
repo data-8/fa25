@@ -4,22 +4,19 @@ class: Berkeley
 status: Active
 ---
 
-Jan 27
-: **3**{: .label} Programming in Python
-    : {{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}
-: _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab02}} (Due 1/31) <!-- (Due 9/13) -->
-: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht02}}
+Sept 1
+: **Labor Day**{: .label} No class
 
-Jan 29
+Sept 3
+: **3**{: .label} Python
+    : <!--{{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}-->
+<!--: _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)-->
+: **Lab**{: .label .label-lab} Lab 01<!--{{site.links.lab.lab01}}--> (Due 9/5)
+: **Discussion**{: .label .label-discussion} Worksheet 01<!--{{site.links.wksht.wksht01}}-->
+
+Sept 5
 : **4**{: .label} Data Types
-    : {{site.links.lec.slides.slide04}} {{site.links.lec.demo.demo04}}
-: _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
-
-
-
-Jan 31
-: **5**{: .label} Tables
-    : {{site.links.lec.slides.slide05}} {{site.links.lec.demo.demo05}}
-: _Reading:_ [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw02}} (Due 2/5)<!-- (Due 9/13) -->
+    : <!--{{site.links.lec.slides.slide04}} {{site.links.lec.demo.demo04}}-->
+<!--: _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)-->
+: **Homework**{: .label .label-homework} Homework 02
+    <!--{{site.links.hw.hw02}}--> (Due 9/10)

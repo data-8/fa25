@@ -4,18 +4,18 @@ class: Berkeley
 status: Active
 ---
 
-Apr 28
-: **38**{: .label} Multiple Linear Regression
-    : {{site.links.lec.slides.slide38}} {{site.links.lec.demo.demo38}}
-: _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab10}} (Due 5/2)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw12}} (Due 5/4)
+Dec 1
+: **37**{: .label} Updating Probabilities
+    : <!--{{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}-->
+: <!--_Reading:_ -->
+: **Lab**{: .label .label-lab} Lab 11<!--{{site.links.lab.lab10}}--> (Due 12/5)
+: **Discussion**{: .label .label-discussion} Worksheet 12<!--{{site.links.wksht.wksht11}}-->
 
-Apr 30
-: **39**{: .label} Staff Panel / Privacy
-    : {{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}
-: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht14}}
+Dec 3
+: **38**{: .label} Case Study: Computer Vision
+    : <!--{{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}-->
 
-May 2
-: **40**{: .label} Conclusion
-  : {{site.links.lec.slides.slide40}} {{site.links.lec.demo.demo40}}
+Dec 5
+: **39**{: .label} Conclusion
+  : <!--{{site.links.lec.slides.slide40}} {{site.links.lec.demo.demo40}}-->
+: **Homework**{: .label .label-homework} Homework 13<!--{{site.links.hw.hw12}}--> (Due 12/10)

@@ -4,5 +4,5 @@ class: Berkeley
 status: Active
 ---
 
-May 13
-: **Exam**{: .label .label-exam} Final Exam (7-10 PM)
+Dec 15
+: **Exam**{: .label .label-exam} Final Exam (8-11 AM)

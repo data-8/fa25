@@ -9,6 +9,10 @@ nav_order: 3
 # **Policies**
 {:.no_toc}
 
+## Disclamer: This page is under construction. Policies will be updated when the semester begins.
+
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 

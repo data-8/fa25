@@ -20,7 +20,7 @@ title: Data 8
 tagline: Foundations of Data Science
 description: A modern, highly customizable, responsive Jekyll template for course websites
 # TODO(template): this should be built from the staff list...
-author: Ella DeGuzman and Brandon Su
+author: Marissa Lumpkin and Isaac Chung
 # You should use either light or dark as the theme.
 color_scheme: light
 
@@ -51,14 +51,14 @@ class_archive_path: /
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
   # TODO(template): Move this to be built-in.
-  # Ed:
-  #   - 'https://edstem.org/us/courses/64093/discussion/'
+  #Ed:
+    # - 'https://edstem.org/us/courses/73504/discussion/'
   OH Queue:
     - 'https://oh.data8.org/'
   Textbook:
     - 'https://inferentialthinking.com/chapters/intro.html'
-  Extensions:
-    - 'https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform?usp=sharing'
+  #Extensions:
+    #- 'https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform?usp=sharing'
 
 # Collections for website data
 collections:

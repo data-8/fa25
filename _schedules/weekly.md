@@ -22,40 +22,49 @@ timeline:
   - '8:00 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture
-        start: 11:00 AM
-        end: 12:00 PM
-        location: Wheeler 150
+    #events:
+      #- name: Lecture
+        #start: 10:00 AM
+        #end: 11:00 AM
+        #location: Wheeler 150
+      #- name: Office Hours
+        #start: 1:00 PM
+        #end: 5:00 PM
+        #location: Warren 101-B
   - name: Tuesday
+    #events:
+      #- name: Office Hours
+        #start: 9:00 AM
+        #end: 4:00 PM
+        #location: Warren 101-B
   - name: Wednesday
     events:
       - name: Lecture
-        start: 11:00 AM
-        end: 12:00 PM
+        start: 10:00 AM
+        end: 11:00 AM
         location: Wheeler 150
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Warren 101-B & Online
       - name: Office Hours
         start: 12:00 PM
         end: 4:00 PM
         location: Warren 101-B
   - name: Thursday
     events:  
-      - name: Instructor OH
-        start: 9:00 AM
-        end: 11:00 AM
-        location: Evans 340
+      #- name: Instructor OH
+      #  start: 9:00 AM
+      #  end: 11:00 AM
+      #  location: Evans 340
       - name: Office Hours
         start: 12:00 PM
-        end: 3:00 PM
+        end: 5:00 PM
         location: Warren 101-B
   - name: Friday
     events:
       - name: Lecture
-        start: 11:00 AM
-        end: 12:00 PM
+        start: 10:00 AM
+        end: 11:00 AM
         location: Wheeler 150
+      - name: Office Hours
+        start: 12:00 PM
+        end: 3:00 PM
+        location: Warren 101-B
 ---

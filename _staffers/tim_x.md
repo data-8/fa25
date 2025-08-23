@@ -1,11 +1,11 @@
 ---
 name: Tim Xie
-email: xie@berkeley.edu
-pronouns: HE/HIM
-photo: staff/tim_x.jpeg
-website: https://xie.nz/d8
-office-hours: Tue 10-11am, Wed 1-2pm
-bio: hi! i’m a sophomore from new zealand, looking forward to another great semester!
-role: uGSI (UCS2)
-team: Content
+email: tim.xie@berkeley.edu
+pronouns: 
+photo: 
+website: https://xie.nz/
+office-hours: 
+bio: hi, i'm tim! i'm a junior from new zealand and like design & photography, looking forward to a great semester!
+role: 20-hour Lead uGSI (UCS2)
+team: Pedagogy
 ---

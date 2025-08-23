@@ -2,9 +2,9 @@
 name: Mariel Del Rosario
 email: marieltdr@berkeley.edu
 pronouns: SHE/THEY
-photo: staff/mariel_r.jpeg
-office-hours: Tue 10–11am
-bio: hey everyone! i'm a third year studying geography, data sci, & public policy. i love maps, pokemon, cooking shows, and sunbathing! excited to meet y'all :)
-role: uGSI (UCS2)
+photo: 
+office-hours: 
+bio: hi friends! i'm a fourth year from socal studying geography and data sci. i <3 maps, baking, cozy gaming, and exploring! so excited for a gr8 semester with y'all :D
+role: 20-hour Lead uGSI (UCS2)
 team: Tutors
 ---

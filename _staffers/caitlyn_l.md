@@ -1,9 +1,10 @@
 ---
 name: Caitlyn Liao
 email: caitliao@berkeley.edu
-pronouns: SHE/HER/HERS
-photo: staff/caitlyn_l.jpeg
-bio: Hi everyone, I’m a sophomore studying Political Economy and Data Science! In my free time I love listening to music and singing.
-role: Tutor (UCS1)
-office-hours: Fri 12-1pm
+pronouns: SHE/HER
+photo: 
+website: https://chichasanchennorcal.com/
+bio: Hi, I'm a rising junior studying Political Economy and Economics! I love data 8 and boba <3
+role: uGSI (UCS2)
+office-hours: 
 ---

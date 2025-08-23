@@ -1,9 +1,10 @@
 ---
 name: Andres Gutierrez
 email: andres_gutierrez@berkeley.edu
-pronouns: HE/HIM
-photo: staff/andres_g.jpeg
-bio: Hi! I'm a Junior transfer studying Data Science with a domain emphasis in Linguistic Sciences. I'm a big reading, travel, board games, and Mario Kart guy! Feel free to reach out!
-role: Tutor (UCS1)
-office-hours: Tue 11am-1pm
+pronouns: 
+#photo: staff/andres_g.jpeg
+#office-hours: Tue 11am-1pm
+bio: Hi! im a senior in DS with an emphasis in Linguistic Sciences. I spend a good amnt of my time reading, traveling, and watching movies and I love latin music; feel free to reach out!  
+role: uGSI (UCS2)
+team:
 ---

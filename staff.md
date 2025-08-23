@@ -9,8 +9,7 @@ nav_order: 4
 
 <!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`. -->
 
-
-## This page is under construction.
+<p style="font-size:30px">This page is under construction.</p>
 
 
 <!-- <p style="font-size:30px">Please check back soon for an updated staff roster!</p> -->
@@ -18,9 +17,9 @@ nav_order: 4
 <!-- We hope you enjoy Data 8 as much as we did! Hover over some of our icons for a fun surprise :0  -->
 
 
-<!--Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)-->
+Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)
 
-<!-- 
+
 ## Instructors
 <div class="role flex">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -33,6 +32,8 @@ nav_order: 4
 
 **Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for all logistical and student support questions!**
 
+<!--
+
 {% assign head_teaching_assistants = site.staffers | where: 'role', '20-hour Lead uGSI (UCS2)' %}
 {% assign num_head_teaching_assistants = head_teaching_assistants | size %}
 {% if num_head_teaching_assistants != 0 %}
@@ -43,9 +44,10 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 </div>
-
+-->
 ## Teaching Assistants
 
+<!--
 {% assign teaching_assistants = site.staffers | where: 'role', 'uGSI (UCS2)' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
@@ -57,8 +59,9 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 </div>
-
+-->
 ## Tutors
+<!--
 {% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 {% assign num_tutors = tutors | size %}
 {% if num_tutors != 0 %}

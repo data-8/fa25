@@ -2,8 +2,8 @@
 name: Leo Zhang
 email: zhangleo@berkeley.edu
 pronouns: HE/HIM
-photo: staff/leo_z.jpeg
-bio: Hi! I'm from san diego and studying neuroscience and data science. Some things I enjoy include eating all sorts of food, playing soccer, playing the piano, and dataing and sciencing.
+photo: 
+bio: Hi everyone! I'm a sophomore from san diego studying neuroscience and data science.  I love soccer, piano, and eating good food.  Excited for Data8 this semester!
 role: Tutor (UCS1)
-office-hours: Fri 12-1pm
+office-hours: 
 ---

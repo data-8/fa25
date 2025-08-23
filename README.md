@@ -1,4 +1,4 @@
-# DATA 8 Fall 2025
+# DATA 8 Fall 2025 Website
 
 Managed by Fall 2025 #TeamContent: 
 * Leads: Marissa Lumpkin and Isaac Chung
@@ -6,8 +6,6 @@ Managed by Fall 2025 #TeamContent:
 
 [![Pages Deployment](https://github.com/data-8/fa25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-8/fa25/actions/workflows/jekyll.yml) •
 [![a11y specs](https://github.com/data-8/fa25/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-8/fa25/actions/workflows/rspec.yml)
-
-The https://www.data8.org/fa25/ website.
 
 ## Installation
 

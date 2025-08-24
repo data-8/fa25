@@ -6,13 +6,13 @@ status: Active
 
 Sept 1
 : **Labor Day**{: .label} No class
+: **Lab**{: .label .label-lab} Lab 02<!--{{site.links.lab.lab02}}--> (Due 9/5)
+: **Discussion**{: .label .label-discussion} Worksheet 02<!--{{site.links.wksht.wksht02}}-->
 
 Sept 3
 : **3**{: .label} Python
     : <!--{{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}-->
 <!--: _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)-->
-: **Lab**{: .label .label-lab} Lab 01<!--{{site.links.lab.lab01}}--> (Due 9/5)
-: **Discussion**{: .label .label-discussion} Worksheet 01<!--{{site.links.wksht.wksht01}}-->
 
 Sept 5
 : **4**{: .label} Data Types

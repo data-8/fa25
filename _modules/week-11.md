@@ -8,8 +8,7 @@ Nov 3
 : **28**{: .label} Correlation
     : <!--{{site.links.lec.slides.slide29}} {{site.links.lec.demo.demo29}}-->
 : <!--_Reading:_ [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)-->
-: **Lab**{: .label .label-lab} Lab 09<!--{{site.links.proj.proj2c}}--> (Due 11/7)
-: **Discussion**{: .label .label-discussion} Worksheet 10<!--{{site.links.wksht.wksht10}}-->
+: **Discussion**{: .label .label-discussion} Worksheet 11<!--{{site.links.wksht.wksht11}}-->
 
 Nov 5
 : **29**{: .label} Linear Regression

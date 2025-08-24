@@ -8,8 +8,7 @@ Sept 22
 : **11**{: .label} Pivots and Joins
     : <!--{{site.links.lec.slides.slide11}} {{site.links.lec.demo.demo11}}-->
 <!--: _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)-->
-: **Lab**{: .label .label-lab} Lab 04<!--{{site.links.lab.lab04}}--> (Due 9/26)
-: **Discussion**{: .label .label-discussion} Worksheet 04<!--{{site.links.wksht.wksht04}}-->
+: **Discussion**{: .label .label-discussion} Worksheet 05 <!--{{site.links.wksht.wksht06}}-->
 
 Sept 24
 : **12**{: .label} Iteration

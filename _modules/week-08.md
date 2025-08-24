@@ -7,7 +7,7 @@ status: Active
 Oct 13
 : **20**{: .label} Midterm Review I
     : <!--{{site.links.lec.slides.slide20}} {{site.links.lec.demo.demo20}}-->
-: **Discussion**{: .label .label-discussion} Worksheet 07<!--{{site.links.wksht.wksht07}}-->
+: **Discussion**{: .label .label-discussion} Worksheet 08<!--{{site.links.wksht.wksht08}}-->
 
 Oct 15
 : **21**{: .label} Midterm Review II

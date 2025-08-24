@@ -9,7 +9,7 @@ Oct 6
     : <!--{{site.links.lec.slides.slide17}} {{site.links.lec.demo.demo17}}-->
 <!--: _Reading:_ [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)-->
 : **Lab**{: .label .label-lab} Lab 06<!--{{site.links.lab.lab06}}--> (Due 10/10)
-: **Discussion**{: .label .label-discussion} Worksheet 06 <!--{{site.links.wksht.wksht06}}-->
+: **Discussion**{: .label .label-discussion} Worksheet 07<!--{{site.links.wksht.wksht07}}-->
 
 Oct 8
 : **18**{: .label} A/B Testing

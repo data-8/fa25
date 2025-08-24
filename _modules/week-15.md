@@ -8,8 +8,8 @@ Dec 1
 : **37**{: .label} Updating Probabilities
     : <!--{{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}-->
 : <!--_Reading:_ -->
-: **Lab**{: .label .label-lab} Lab 11<!--{{site.links.lab.lab10}}--> (Due 12/5)
-: **Discussion**{: .label .label-discussion} Worksheet 12<!--{{site.links.wksht.wksht11}}-->
+: **Lab**{: .label .label-lab} Lab 10<!--{{site.links.lab.lab10}}--> (Due 12/5)
+: **Discussion**{: .label .label-discussion} Worksheet 14<!--{{site.links.wksht.wksht14}}-->
 
 Dec 3
 : **38**{: .label} Case Study: Computer Vision

@@ -2,7 +2,7 @@
 name: Tim Xie
 email: tim.xie@berkeley.edu
 pronouns: 
-photo: 
+photo: staff/tim_x.png
 website: https://xie.nz/
 office-hours: 
 bio: hi, i'm tim! i'm a junior from new zealand and like design & photography, looking forward to a great semester!

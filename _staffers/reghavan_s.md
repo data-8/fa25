@@ -2,7 +2,7 @@
 name: Raghavan Srinivas
 email: raghavan.srinivas@berkeley.edu
 pronouns:
-photo:
+photo: staff/raghavan_s.png
 office-hours: 
 website: raghavansrinivas.com
 bio: Hey everyone! I'm Raghavan, a sophomore from the Bay Area studying Data Science and Computer Science. In my free time I love to hoop and play poker, and I'm super excited to meet you all! 

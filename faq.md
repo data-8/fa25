@@ -17,7 +17,7 @@ description: >-
 
 <details>
   <summary><strong>Q: Where will our grades for assignments be displayed for the course?</strong></summary>
-  <p style="margin-left:16px;">A: Grades will be displayed on Gradescope for the written and autograded portions for all assignments (homeworks, labs, projects, and exams). For homeworks and projects, your total grade is the sum of the autograded portion and the written portion.</p>
+  <p style="margin-left:16px;">A: Grades will be displayed on Pensieve for the written and autograded portions for all assignments (homeworks, labs, projects, and exams). For homeworks and projects, your total grade is the sum of the autograded portion and the written portion.</p>
 </details>
 
 <details>
@@ -31,13 +31,13 @@ description: >-
 </details>
 
 <details>
-  <summary><strong>Q: I worked with a partner on a project, and they have a grade on Gradescope for the project while I do not. Why is this happening?</strong></summary>
-  <p style="margin-left:16px;">A: You were likely not added to the Gradescope submission. Have your partner add you to both the written work and autograder submission immediately and contact your lab TA.</p>
+  <summary><strong>Q: I worked with a partner on a project, and they have a grade on Pensieve for the project while I do not. Why is this happening?</strong></summary>
+  <p style="margin-left:16px;">A: You were likely not added to the Pensieve submission. Have your partner add you to both the written work and autograder submission immediately and contact your lab TA.</p>
 </details>
 
 <details>
   <summary><strong>Q: I noticed a mistake in the grading of the written portion of my homework. How can I get this fixed?</strong></summary>
-  <p style="margin-left:16px;">A: To get this fixed, you must submit a regrade request via Gradescope before the regrade deadline. This is known as the regrade request window. We unfortunately will not accept any regrades after the window has closed. All regrade deadline dates are posted on the same Ed post that releases the assignment grades and solutions.</p>
+  <p style="margin-left:16px;">A: To get this fixed, you must submit a regrade request via Pensieve before the regrade deadline. This is known as the regrade request window. We unfortunately will not accept any regrades after the window has closed. All regrade deadline dates are posted on the same Ed post that releases the assignment grades and solutions.</p>
 </details>
 
 <details>

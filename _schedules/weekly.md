@@ -43,10 +43,10 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: Wheeler 150
-      - name: Office Hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: Warren 101-B
+      #- name: Office Hours
+      #  start: 12:00 PM
+      #  end: 4:00 PM
+      #  location: Warren 101-B
   - name: Thursday
     events:  
       #- name: Instructor OH
@@ -55,7 +55,7 @@ schedule:
       #  location: Evans 340
       - name: Office Hours
         start: 12:00 PM
-        end: 5:00 PM
+        end: 3:00 PM
         location: Warren 101-B
   - name: Friday
     events:

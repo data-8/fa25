@@ -1,6 +1,6 @@
 ---
 title: Week 0 Announcements
-week: 99
+week: 0
 date: 2025-08-17
 ---
 

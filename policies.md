@@ -1,16 +1,16 @@
 ---
 layout: page
-title: 📜 Policies
+title: 📜 Syllabus
 description: >-
-    Course policies and information.
+    Course syllabus and policies.
 nav_order: 3
 ---
 
-# **Policies**
+# **Syllabus**
 {:.no_toc}
 
 
-<p style="font-size:30px">This page is under construction. Policies will be updated when the semester begins.</p>
+<p style="font-size:30px">This page is under construction. The syllabus will be updated when the semester begins.</p>
 
 ---
 

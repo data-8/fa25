@@ -54,12 +54,12 @@ description: >-
 </details>
 
 <details>
-  <summary><strong>Why did a Gradescope test fail, when all the notebook’s tests passed?</strong></summary>
-  <p style="margin-left:16px;">This can happen if you’re running your notebook’s cells out-of-order. The autograder runs your notebook top-to-bottom. If you’re defining a variable at the bottom of your notebook and using it at the top, the Gradescope autograder will fail because it doesn’t recognize the variable when it encounters it.
+  <summary><strong>Why did a Pensieve test fail, when all the notebook’s tests passed?</strong></summary>
+  <p style="margin-left:16px;">This can happen if you’re running your notebook’s cells out-of-order. The autograder runs your notebook top-to-bottom. If you’re defining a variable at the bottom of your notebook and using it at the top, the Pensieve autograder will fail because it doesn’t recognize the variable when it encounters it.
 </p>
   <p style="margin-left:16px;">Additionally, this can fail if you have not saved before you run the autograder. Ensure you select File -> Save Notebook to avoid this.
 </p>
-    <p style="margin-left:16px;">This is why we recommend running Kernel -> Restart and Run All: it “forgets” all of the variables and runs the notebook from top-to-bottom, just like the Gradescope autograder will. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below.
+    <p style="margin-left:16px;">This is why we recommend running Kernel -> Restart and Run All: it “forgets” all of the variables and runs the notebook from top-to-bottom, just like the Pensieve autograder will. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below.
 </p>
 </details>
 

@@ -9,9 +9,6 @@ nav_order: 3
 # **Syllabus**
 {:.no_toc}
 
-
-<p style="font-size:30px">This page is under construction. The syllabus will be updated when the semester begins.</p>
-
 ---
 
 ## Table of contents

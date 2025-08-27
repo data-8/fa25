@@ -1,7 +1,7 @@
 ---
 name: Tim Xie
-email: tim.xie@berkeley.edu
-pronouns: 
+email: xie@berkeley.edu
+pronouns: HE/HIM
 photo: staff/tim_x.png
 website: https://xie.nz/
 office-hours: 

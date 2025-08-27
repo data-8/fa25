@@ -6,7 +6,7 @@ status: Active
 
 Aug 27
 : **1**{: .label} Introduction
-    : {{site.links.lec.slides.slide01}} <!--{{site.links.lec.demo.demo01}}-->
+    : {{site.links.lec.slides.slide01}} {{site.links.lec.demo.demo01}}
 : _Reading:_ [1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html), [1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab01}} (Due 8/29)
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht01}}

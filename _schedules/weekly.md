@@ -22,36 +22,36 @@ timeline:
   - '8:00 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture
-        start: 10:00 AM
-        end: 11:00 AM
-        location: Wheeler 150
-      - name: Office Hours
-        start: 1:00 PM
-        end: 5:00 PM
-        location: Warren 101-B
+    # events:
+    #   - name: Lecture
+    #     start: 10:00 AM
+    #     end: 11:00 AM
+    #     location: Wheeler 150
+    #   - name: Office Hours
+    #     start: 1:00 PM
+    #     end: 5:00 PM
+    #     location: Warren 101-B
   - name: Tuesday
-    events:
-      - name: Office Hours
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Online
-      - name: Office Hours
-        start: 10:00 AM
-        end: 4:00 PM
-        location: Warren 101-B
-      - name: Office Hours
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Online
+    # events:
+    #   - name: Office Hours (Online)
+    #     start: 9:00 AM
+    #     end: 10:00 AM
+    #     location: Online
+    #   - name: Office Hours
+    #     start: 10:00 AM
+    #     end: 4:00 PM
+    #     location: Warren 101-B
+    #   - name: Office Hours (Online)
+    #     start: 4:00 PM
+    #     end: 5:00 PM
+    #     location: Online
   - name: Wednesday
     events:
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
         location: Wheeler 150
-      - name: Office Hours
+      - name: Office Hours (Online)
         start: 1:00 PM
         end: 4:00 PM
         location: Online

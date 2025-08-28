@@ -16,5 +16,4 @@ Aug 29
 : **2**{: .label} Cause and Effect
     : <!--{{site.links.lec.slides.slide02}} {{site.links.lec.demo.demo02}}-->
 : _Reading:_ [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
-: **Homework**{: .label .label-homework} Homework 01
-    <!--{{site.links.hw.hw01}}--> (Due 9/3)
+: **Homework**{: .label .label-homework} {{site.links.hw.hw01}} (Due 9/3)

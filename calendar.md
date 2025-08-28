@@ -13,7 +13,7 @@ UC Berkeley, Fall 2025
 {: .mb-2 .fs-6}
 
 [Ed](https://edstem.org/us/courses/83132/discussion){: .btn .btn-ed}
-<!--[Gradescope](https://www.gradescope.com/courses/952061){: .btn .btn-gradescope}-->
+[Pensieve](https://www.pensieve.co/student/classes/data8_fa25/my-assignments){: .btn .btn-pensieve}
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1547037/external_tools/90481){: .btn .btn-bcourses}
 [Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
 [Extensions](https://forms.gle/8bC3hu2334NY3EHe9){: .btn .btn-extensions}

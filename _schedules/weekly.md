@@ -36,7 +36,7 @@ schedule:
     #   - name: Office Hours (Online)
     #     start: 9:00 AM
     #     end: 10:00 AM
-    #     location: Online
+    #     location: oh.data8.org
     #   - name: Office Hours
     #     start: 10:00 AM
     #     end: 4:00 PM
@@ -44,7 +44,7 @@ schedule:
     #   - name: Office Hours (Online)
     #     start: 4:00 PM
     #     end: 5:00 PM
-    #     location: Online
+    #     location: oh.data8.org
   - name: Wednesday
     events:
       - name: Lecture
@@ -54,7 +54,7 @@ schedule:
       - name: Office Hours (Online)
         start: 1:00 PM
         end: 4:00 PM
-        location: Online
+        location: oh.data8.org
   - name: Thursday
     events:  
       #- name: Instructor OH

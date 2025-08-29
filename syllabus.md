@@ -62,9 +62,7 @@ It can be very tough to be a student at this school! There are applications to c
 The tutors and TAs might be an even better resource than myself for some topics, because they are students just like you. So feel free to have conversations with them as well. They can also tell you what being an Academic Student Employee (ASE) is like.
 
 
-With regards to reports of sexual misconduct/violence/assault, you may speak with me (and with the course staff, for that matter), but know that we will need to report the discussion to the Title IX officer. This is detailed below.
-
-> As UC employees, I and the ASEs are “Responsible Employees” and are therefore required to report incidents of sexual violence, sexual harassment, or other conduct prohibited by University policy to the Title IX officer. We cannot keep reports of sexual harassment or sexual violence confidential, but the Title IX officer will consider requests for confidentiality. Note that there are confidential resources available to you through UCB’s PATH to Care Center, which serves survivors of sexual violence and sexual harassment; call their 24/7 Care Line at 510-643-2005.
+With regards to reports of sexual misconduct/violence/assault, instructors and ASEs are “Responsible Employees” and therefore required to report incidents of sexual violence, sexual harassment, or other conduct prohibited by University policy to the Title IX officer. You can access confidential support through UCB’s PATH to Care Center, which serves survivors of sexual violence and sexual harassment; call their 24/7 Care Line at 510-643-2005 or visit https://care.berkeley.edu/ for more information.
 
 #### Other helpful, campus resources
 

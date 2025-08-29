@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🏢 Weekly OH
+title: 🏢 Calendar
 description: The weekly event schedule.
 nav_order: 2
 ---

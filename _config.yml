@@ -55,8 +55,8 @@ aux_links:
     # - 'https://edstem.org/us/courses/73504/discussion/'
   OH Queue:
     - 'https://oh.data8.org/'
-  Textbook:
-    - 'https://inferentialthinking.com/chapters/intro.html'
+  # Textbook:
+  #   - 'https://inferentialthinking.com/chapters/intro.html'
   Extensions:
     - 'https://forms.gle/8bC3hu2334NY3EHe9'
 

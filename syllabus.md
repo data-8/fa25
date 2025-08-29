@@ -9,6 +9,9 @@ nav_order: 3
 # **Syllabus**
 {:.no_toc}
 
+
+<!--<p style="font-size:30px">This page is under construction. The syllabus will be updated when the semester begins.</p>-->
+
 ---
 
 ## Table of contents
@@ -179,7 +182,7 @@ Students may switch formats at two points throughout the semester (1) during the
 
 _How Should You Submit The Programming-Based Assignment?_
 
-We plan to have a walkthrough video on how to submit to Pensieve by Week 2 of the semester. In the meantime, please reference [this video from previous semesters](https://drive.google.com/file/d/1ZyLpxcqYubKEyxphk5K-OZRRkphUVFQi/view?usp=sharing) on how to submit assignments. Note that some of the information may be outdated. Before posting about code errors, please check our [debugging page](https://www.data8.org/fa25/debugging/)! We have listed common errors and reasons why they might be coming up for you.
+[Here](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) is a video for how to submit the programming assignment to Pensieve. Before posting about code errors, please check our [debugging page](https://www.data8.org/fa25/debugging/)! We have listed common errors and reasons why they might be coming up for you.
 
 
 _Asking for Help_
@@ -256,7 +259,7 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://forms.gle/8bC3hu2334NY3EHe9). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong> Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://forms.gle/8bC3hu2334NY3EHe9). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>Extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong> Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 <u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
 

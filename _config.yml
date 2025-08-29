@@ -200,7 +200,7 @@ exclude:
 links:
   sandbox: "[Review Sandbox](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2Freview-sandbox%2FUntitled.ipynb)"
   hw:
-    hw01: "[Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2Fhw%2Fhw01%2Fhw01.ipynb)"
+    hw01: "[Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa25&urlpath=tree%2Fmaterials-fa25%2Fhw%2Fhw01%2Fhw01.ipynb)"
     hw02: "[Homework 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2Fhw%2Fhw02%2Fhw02.ipynb)"
     hw03: "[Homework 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2Fhw%2Fhw03%2Fhw03.ipynb)"
     hw04: "[Homework 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2Fhw%2Fhw04%2Fhw04.ipynb)"
@@ -214,7 +214,7 @@ links:
     hw12: "[Homework 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2Fhw%2Fhw12%2Fhw12.ipynb)"
     hw13: "[Homework 13](https://www.gradescope.com/courses/952061/assignments/6159226/submissions/new)"
   lab:
-    lab01: "[Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab01%2Flab01.ipynb)"
+    lab01: "[Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab01%2Flab01.ipynb)"
     lab02: "[Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab02%2Flab02.ipynb)"
     lab03: "[Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab03%2Flab03.ipynb)"
     lab04: "[Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab04%2Flab04.ipynb)"
@@ -225,7 +225,7 @@ links:
     lab09: "[Lab 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab09%2Flab09.ipynb)"
     lab10: "[Lab 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab10%2Flab10.ipynb)"
   wksht:
-    wksht01: "[Worksheet 01](https://drive.google.com/file/d/1uxSU3c2DaOtKvIS0jVGXnIkKjAIThDb0/view?usp=sharing)"
+    wksht01: "[Worksheet 01](https://drive.google.com/file/d/1rl5TLpZde5dx15b806IXHqU4NIgZxWli/view?usp=sharing)"
     wksht02: "[Worksheet 02](https://drive.google.com/file/d/17_WX17hzjEOANODNEyI21PfrfuAcjabX/view?usp=sharing)"
     wksht03: "[Worksheet 03](https://drive.google.com/file/d/1vsA0062Xfht3cmmmmSa94DDjGusdltu5/view?usp=sharing)"
     wksht04: "[Worksheet 04](https://drive.google.com/file/d/1NnoeLPcFKasfAX3k0nZeWu3jN1li_NDA/view?usp=sharing)"
@@ -293,7 +293,7 @@ links:
       demo43: ""
     slides:
       slide01: "[Slides](https://docs.google.com/presentation/d/1Rg3tyM3b68n8Ko5OzsnnvXSbeP-HARD5WlLKUfXXCFk/edit?usp=sharing)" 
-      slide02: "[Slides](https://docs.google.com/presentation/d/1mpRbyc3oeT1vUFUs3zMztGVAjAGC7Gv9nweH3n8Zkz0/edit?usp=sharing)"
+      slide02: "[Slides](https://docs.google.com/presentation/d/1Q_lmvS8L5lO1RrJ-KBBuKNAQrW9iBCPaQLsmKHAaWJc/edit?usp=sharing)"
       slide03: "[Slides](https://docs.google.com/presentation/d/1k3YSZn0Cuxh_kD_iYj5i_pTPgIm2GZe4ysVlQvOHJzU/edit?usp=sharing)"
       slide04: "[Slides](https://docs.google.com/presentation/d/12danL6fLoxZy6BN43a349LxAHS6k8g5KzBYXM_If1aA/edit?usp=sharing)"
       slide05: "[Slides](https://docs.google.com/presentation/d/1hUWhXs3stFdZChTU8OR99KnQ6E647fy01pd8iajrJnE/edit?usp=sharing)"

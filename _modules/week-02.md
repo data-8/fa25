@@ -6,8 +6,8 @@ status: Active
 
 Sept 1
 : **Labor Day**{: .label} No class
-: **Lab**{: .label .label-lab} Lab 02<!--{{site.links.lab.lab02}}--> (Due 9/5)
-: **Discussion**{: .label .label-discussion} Worksheet 02<!--{{site.links.wksht.wksht02}}-->
+: **Lab**{: .label .label-lab} {{site.links.lab.lab02}} (Due 9/5)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht02}}
 
 Sept 3
 : **3**{: .label} Python

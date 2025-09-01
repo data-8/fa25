@@ -42,7 +42,7 @@ sememster: fa25 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 1
+current_week: 2
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -215,7 +215,7 @@ links:
     hw13: "[Homework 13](https://www.gradescope.com/courses/952061/assignments/6159226/submissions/new)"
   lab:
     lab01: "[Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab01%2Flab01.ipynb)"
-    lab02: "[Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab02%2Flab02.ipynb)"
+    lab02: "[Lab 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab02%2Flab02.ipynb)"
     lab03: "[Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab03%2Flab03.ipynb)"
     lab04: "[Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab04%2Flab04.ipynb)"
     lab05: "[Lab 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab05%2Flab05.ipynb)"

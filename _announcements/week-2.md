@@ -4,8 +4,6 @@ week: 2
 date: 2025-08-31
 ---
 
-Welcome to Data 8!
-
 1. **Assignments Due**
     * {{site.links.hw.hw01}} is due on *<u>Wednesday</u>, September 3rd @ 10 AM*
     * <!--{{site.links.lab.lab02}}-->Lab 02 is due on *<u>Friday</u>, September 5th @ 5 PM*

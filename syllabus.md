@@ -62,7 +62,9 @@ It can be very tough to be a student at this school! There are applications to c
 The tutors and TAs might be an even better resource than myself for some topics, because they are students just like you. So feel free to have conversations with them as well. They can also tell you what being an Academic Student Employee (ASE) is like.
 
 
-With regards to reports of sexual misconduct/violence/assault, instructors and ASEs are “Responsible Employees” and therefore required to report incidents of sexual violence, sexual harassment, or other conduct prohibited by University policy to the Title IX officer. You can access confidential support through UCB’s PATH to Care Center, which serves survivors of sexual violence and sexual harassment; call their 24/7 Care Line at 510-643-2005 or visit https://care.berkeley.edu/ for more information.
+With regards to reports of sexual misconduct/violence/assault, you may speak with me (and with the course staff, for that matter), but know that we will need to report the discussion to the Title IX officer. This is detailed below.
+
+> As UC employees, I and the ASEs are “Responsible Employees” and are therefore required to report incidents of sexual violence, sexual harassment, or other conduct prohibited by University policy to the Title IX officer. We cannot keep reports of sexual harassment or sexual violence confidential, but the Title IX officer will consider requests for confidentiality. Note that there are confidential resources available to you through UCB’s PATH to Care Center, which serves survivors of sexual violence and sexual harassment; call their 24/7 Care Line at 510-643-2005.
 
 #### Other helpful, campus resources
 
@@ -191,29 +193,29 @@ You can ask us about lab assignments in office hours or on Ed in the dedicated l
 
 Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/fa25/policies/#learning-cooperatively) section below.
 
-Homework will be released on Thursday at 10am PT and due the following Wednesday at 10am PT. Submissions after the deadline will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted. There are 5 extra points available for submitting on Tuesday at 10am PT (the day before the regular deadline)! Similar to the lab policy discussed above, students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances. 
+Homework will be released on Thursday at 10am PT and due the following Wednesday at 10am PT. Submissions after the deadline will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted. There are **5 extra points** available for submitting on Tuesday at 10am PT (the day before the regular deadline)! Similar to the lab policy discussed above, students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances. 
 
 Remember, there are resources to help you with assignments, including your homeworks! You can ask questions on Ed in the dedicated homework thread (make sure to navigate to the subquestion thread). Remember to never post your code publicly; please make a private post if you have to post any code. *We also encourage you to review the course policies concerning collaboration and academic honesty.*
 You can also get help at office hours. We highly recommend getting started on the homework earlier, so that if you need help, you can attend OH before the deadline on Wednesday.
 
 _How to Submit Your Homework Assignment_
 
-Unlike labs, there are separate tests we run in addition to the ones you see in your Notebook! In order to pass these, make sure your code solves the general problem at hand and not only a specific case of the problem. 
+[Here](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) is a link to a video on the assignment submission process (make sure you’re logged into your Berkeley e-mail). Unlike labs, there are separate tests we run in addition to the ones you see in your Notebook! In order to pass these, make sure your code solves the general problem at hand and not only a specific case of the problem. 
 As a reminder, it is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Pensieve after you submit. Check out our [DataHub Guide](https://www.data8.org/fa25/debugging/) if you run into any issues working on Jupyter Notebook before posting on Ed.
 
 ### Projects
 
 Data science is about analyzing real-world data sets, and so you will also complete three projects involving real data. The experience of solving the problems in this project will prepare you for exams (and life in a data scientist role). On each project, you may work with a single partner; your partner must be from the lab you enrolled in. **Both partners will receive the same score and are equally responsible for the work submitted!!** You may also work on your own. 
 
-There are three projects throughout the semester. For each project, you will submit in two parts: first, a checkpoint, and then, the completed project. Don't share your code with anybody but your partner. You are welcome to discuss questions with other students but don't share the answers. If someone (who is not your partner) asks you for the answer, you might demonstrate how you would solve a similar problem.
+There are three projects throughout the semester. For each project, you will submit in two parts: first, a checkpoint, and then, the completed project. Don't share your code with anybody but your partner. Similar to homeworks, there are **5 extra points** available for submitting 24 hours in advance of the deadline. You are welcome to discuss questions with other students but don't share the answers. If someone (who is not your partner) asks you for the answer, you might demonstrate how you would solve a similar problem.
 
 The projects can seem long and difficult, but you are not alone! Come to office hours, post on Ed, and talk to your classmates. If you want to ask about the details of your solution to a problem, make a private Ed post and the staff will respond. If you're ever feeling overwhelmed or don't know how to make progress, email your TA or tutor for help. You can find contact information for the staff on the course website. 
 
 We _highly recommend_ starting early, so on the day that the project is released, and doing each bit that you can with the material that you have been exposed to in lecture/lab up until that point. Continue in this fashion, working day-by-day, and you're more likely to have a stress-free experience!
 
-_Submitting your Project with a Partner_
+<!--_Submitting your Project with a Partner_
 
-We will soon be attaching a walkthrough video on how to add partners on Pensieve! Make sure only one of you submits the project.
+You may reference [this walkthrough video](https://drive.google.com/file/d/12lBUSu5hFOZCdBE5QTQuBalT0nMgRhyC/view?usp=sharing) on how to add partners on Pensieve! Make sure only one of you submits the project.-->
 
 ### Exams
 
@@ -243,7 +245,7 @@ For the midterm exam, there will be a regrade request submission window. Please 
 
 ### Submitting Assignments
 
-All assignments (homework, labs, and projects) will be submitted on Pensieve. We plan to have a walkthrough video on how to submit to Pensieve by Week 2 of the semester. In the meantime, please reference [this video from previous semesters](https://drive.google.com/file/d/1ZyLpxcqYubKEyxphk5K-OZRRkphUVFQi/view?usp=sharing) on how to submit assignments. Note that some of the information may be outdated.
+All assignments (homework, labs, and projects) will be submitted on Pensieve. Please refer to [this tutorial](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) for submitting assignments.
 
 We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is **your responsibility** to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
 
@@ -257,7 +259,7 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://forms.gle/8bC3hu2334NY3EHe9). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>Extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong> Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this form (coming soon, link TBD). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 <u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
 
@@ -282,6 +284,7 @@ It is important to keep in mind the limits of collaboration. As noted above, you
 In addition, **you must solve problems using the resources made available in the course and only the resources made available in the course!** This means that you are not permitted to turn in written or code answers on any assignment (including exams) that you have obtained from others, online sources *or from prior experience that does not include what we have taught in the course*. This also means that you are not permitted to submit written material or code created with any generative AI tools, including but not limited to ChatGPT. Any usage of external materials or materials not taught in Data 8 on homework, projects, or labs will result in an automatic 0 on the assignment, and a homework or lab drop cannot be applied on such assignments. Any usage of external materials or materials not taught in Data 8 on the exam will not be graded. In addition, posting course content such as homeworks, projects, and exams on any 3rd party websites or submitting your own answers on outside sites/forums is considered academic misconduct. 
 
 This list of prohibited behaviors is not exhaustive, and we reserve the right to punish other dishonest behaviors. We will report any academic dishonesty directly to the Center for Student Conduct, and you will immediately receive an F in the course. Please read Berkeley's [Code of Conduct](https://sa.berkeley.edu/code-of-conduct) carefully.
+
 
 
 ## Thanks for reading! 

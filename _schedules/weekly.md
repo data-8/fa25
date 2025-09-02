@@ -57,10 +57,6 @@ schedule:
         location: oh.data8.org
   - name: Thursday
     events:  
-      #- name: Instructor OH
-      #  start: 9:00 AM
-      #  end: 11:00 AM
-      #  location: Evans 340
       - name: Office Hours
         start: 12:00 PM
         end: 3:00 PM
@@ -71,6 +67,10 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: Wheeler 150
+      - name: Instructor OH
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Evans 330
       - name: Office Hours
         start: 12:00 PM
         end: 3:00 PM

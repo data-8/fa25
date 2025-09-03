@@ -11,7 +11,7 @@ Sept 1
 
 Sept 3
 : **3**{: .label} Python
-    : <!--{{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}-->
+    : {{site.links.lec.slides.slide03}} <!--{{site.links.lec.demo.demo03}}-->
 : _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
 
 Sept 5

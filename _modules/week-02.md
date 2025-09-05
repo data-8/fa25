@@ -16,6 +16,6 @@ Sept 3
 
 Sept 5
 : **4**{: .label} Data Types
-    : <!--{{site.links.lec.slides.slide04}} {{site.links.lec.demo.demo04}}-->
+    : {{site.links.lec.slides.slide04}} {{site.links.lec.demo.demo04}}
 : _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw02}} (Due 9/10)

@@ -6,7 +6,7 @@ status: Active
 
 Sept 8
 : **5**{: .label} Tables
-    : <!--{{site.links.lec.slides.slide05}} {{site.links.lec.demo.demo05}}-->
+    : {{site.links.lec.slides.slide05}} <!--{{site.links.lec.demo.demo05}}-->
 : _Reading:_ [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
 : **Lab**{: .label .label-lab} Lab 03<!--{{site.links.lab.lab03}}--> (Due 9/12)
 : **Discussion**{: .label .label-discussion} Worksheet 03<!--{{site.links.wksht.wksht03}}-->

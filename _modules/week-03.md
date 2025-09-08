@@ -22,4 +22,3 @@ Sept 12
 : _Reading:_ [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
 : **Homework**{: .label .label-homework} Homework 03
     <!--{{site.links.hw.hw03}}--> (Due 9/17)
-: **Project**{: .label .label-project} Project 01<!--{{site.links.proj.proj1}}--> (Due 9/27)

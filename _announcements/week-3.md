@@ -1,0 +1,13 @@
+---
+title: Week 2 Announcements
+week: 2
+date: 2025-08-31
+---
+
+1. **Assignments Due**
+    * <!--{{site.links.hw.hw02}}-->Homework 02 is due on *<u>Wednesday</u>, September 10th @ 10 AM*
+    * <!--{{site.links.lab.lab02}}-->Lab 02 is due on *<u>Friday</u>, September 12th @ 5 PM*
+    * <!--{{site.links.hw.hw02}}-->Homework 03 is due on *<u>Wednesday</u>, September 17th @ 10 AM*
+2. **Tutoring Section Sign-Ups**
+    * Go to [sections.data8.org/tutoring](https://sections.data8.org/tutoring) to enroll in a tutoring section!
+    * Details about tutoring sections can be found on this [Edstem post](https://edstem.org/us/courses/83132/discussion/6919060)

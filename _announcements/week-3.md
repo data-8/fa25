@@ -1,7 +1,7 @@
 ---
-title: Week 2 Announcements
-week: 2
-date: 2025-08-31
+title: Week 3 Announcements
+week: 3
+date: 2025-09-07
 ---
 
 1. **Assignments Due**

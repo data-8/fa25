@@ -13,7 +13,7 @@ Sept 8
 
 Sept 10
 : **6**{: .label} Case Study: Census
-    :  <!--{{site.links.lec.slides.slide06}}{{site.links.lec.demo.demo06}}-->
+    :  {{site.links.lec.slides.slide06}}<!--{{site.links.lec.demo.demo06}}-->
 : _Reading:_ [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
 
 Sept 12

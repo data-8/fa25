@@ -18,6 +18,6 @@ Sept 10
 
 Sept 12
 : **7**{: .label} Data Visualization
-    : {{site.links.lec.slides.slide07}} <!--{{site.links.lec.demo.demo07}}-->
+    : {{site.links.lec.slides.slide07}} {{site.links.lec.demo.demo07}}
 : _Reading:_ [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw03}} (Due 9/17)

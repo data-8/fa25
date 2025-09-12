@@ -20,5 +20,5 @@ Nov 14
 : **33**{: .label} Classification
     : <!--{{site.links.lec.slides.slide34}} {{site.links.lec.demo.demo34}}-->
 : <!--_Reading:_ [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html)-->
-: **Homework**{: .label .label-homework} Homework 11<!--{{site.links.hw.hw11}}--> (Due 11/19)
+: **Homework**{: .label .label-homework} Homework 10<!--{{site.links.hw.hw10}}--> (Due 11/19)
 : **Project**{: .label .label-project} Project 03<!--{{site.links.proj.proj3}}--> (Due 12/5)

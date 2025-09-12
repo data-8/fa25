@@ -21,5 +21,5 @@ Oct 31
 : **27**{: .label} Case Study: Elections
   : <!--{{site.links.lec.slides.slide28}} {{site.links.lec.demo.demo28}}-->
 : <!--_Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)-->
-: **Homework**{: .label .label-homework} Homework 09<!--{{site.links.hw.hw08}}--> (Due 11/5)
+: **Homework**{: .label .label-homework} Homework 08<!--{{site.links.hw.hw08}}--> (Due 11/5)
 : **Project**{: .label .label-project} Project 02<!--{{site.links.proj.proj2}}--> (Due 11/14)

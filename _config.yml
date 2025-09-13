@@ -59,6 +59,8 @@ aux_links:
   #   - 'https://inferentialthinking.com/chapters/intro.html'
   Extensions:
     - 'https://forms.gle/8bC3hu2334NY3EHe9'
+  Review Sandbox:
+    - 'https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/sandbox/sandbox.ipynb'
 
 # Collections for website data
 collections:

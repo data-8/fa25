@@ -105,6 +105,15 @@ Any of these predicates can be negated by adding `not_` in front of them, e.g. `
 | `are.contained_in(A)` | Is a substring of `A` (if `A` is a string) or an element of `A` (if `A` is a list/array) |
 | `are.containing(S)` | Contains the string `S` |
 
+## Histogram Bounds Language
+
+Histrograms bins include the data at their left endpoint, but not the data at their right endpoint, except for the rightmost bin which includes both endpoints. When we ask you questions relating to ranges of values in the bins of histograms, we will use one of the three phrases below.
+
+| **Phrase** | **Interpretation** |
+| Between x and y | Greater than or equal to x and less than y |
+| Between or equal to x and y | Greater than or equal to x and less than or equal to y |
+| Strictly between x and y | Greater than x and less than y |
+
 ## Miscellaneous Functions
 
 These are functions in the `datascience` library that are used in the course that don't fall into any of the categories above. You can also read more about all functions in the `datascience` library on the [`datascience` documentation](http://data8.org/datascience/). 

@@ -5,7 +5,7 @@ date: 2025-09-14
 ---
 
 1. **Assignments Due**
-    * {{site.links.hw.hw03}} is due on *<u>Wednesday</u>, September 10th @ 10 AM*
+    * {{site.links.hw.hw03}} is due on *<u>Wednesday</u>, September 17th @ 10 AM*
     * Lab 04 is due on *<u>Friday</u>, September 19th @ 5 PM*
     * Homework 04 is due on *<u>Wednesday</u>, September 24th @ 10 AM*
     * Project 01 is due on *<u>Friday</u>, October 3rd @ 5 PM*

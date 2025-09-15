@@ -213,9 +213,9 @@ The projects can seem long and difficult, but you are not alone! Come to office 
 
 We _highly recommend_ starting early, so on the day that the project is released, and doing each bit that you can with the material that you have been exposed to in lecture/lab up until that point. Continue in this fashion, working day-by-day, and you're more likely to have a stress-free experience!
 
-<!--_Submitting your Project with a Partner_
+_Submitting your Project with a Partner_
 
-You may reference [this walkthrough video](https://drive.google.com/file/d/12lBUSu5hFOZCdBE5QTQuBalT0nMgRhyC/view?usp=sharing) on how to add partners on Pensieve! Make sure only one of you submits the project.-->
+You may reference [this walkthrough video](https://drive.google.com/file/d/1bs1l_f44tUeF1yKY_iljZMTE1X0dYKLl/view?usp=sharing) on how to add partners on Pensieve! Make sure only one of you submits the project.
 
 ### Exams
 

@@ -6,7 +6,7 @@ status: Active
 
 Sept 15
 : **8**{: .label} Histograms
-    : <!--{{site.links.lec.slides.slide08}} {{site.links.lec.demo.demo08}}-->
+    : {{site.links.lec.slides.slide08}} <!--{{site.links.lec.demo.demo08}}-->
 : _Reading:_ [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
 : **Lab**{: .label .label-lab} Lab 04<!--{{site.links.lab.lab04}}--> (Due 9/19)
 : **Discussion**{: .label .label-discussion} Worksheet 04<!--{{site.links.wksht.wksht04}}-->

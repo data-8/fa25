@@ -6,7 +6,7 @@ status: Active
 
 Sept 22
 : **11**{: .label} Pivots and Joins
-    : <!--{{site.links.lec.slides.slide11}} {{site.links.lec.demo.demo11}}-->
+    : {{site.links.lec.slides.slide11}} <!--{{site.links.lec.demo.demo11}}-->
 : _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Lab**{: .label .label-lab} {{site.links.proj.proj1c}} (Due 9/26)
 : **Discussion**{: .label .label-discussion} Worksheet 05 <!--{{site.links.wksht.wksht06}}-->

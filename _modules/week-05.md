@@ -18,5 +18,5 @@ Sept 24
 Sept 26
 : **13**{: .label} Chance
     : <!--{{site.links.lec.slides.slide13}} {{site.links.lec.demo.demo13}}-->
-<!--: _Reading:_ [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html), [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)-->
+: _Reading:_ [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html), [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)
 : **Homework**{: .label .label-homework} Homework 05 <!--{{site.links.hw.hw05}}--> (Due 10/1)

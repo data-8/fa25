@@ -6,7 +6,7 @@ date: 2025-09-21
 
 1. **Assignments Due**
     * {{site.links.hw.hw04}} is due on *<u>Wednesday</u>, September 24th @ 10 AM*
-    * Homework 05 is due on *<u>Wednesday</u>, October 1st @ 10 AM*
+    * {{site.links.hw.hw05}} is due on *<u>Wednesday</u>, October 1st @ 10 AM*
     * {{site.links.proj.proj1}} 
         * Checkpoint is due on *<u>Friday</u>, September 26th @ 5 PM*
         * Everything is due on *<u>Friday</u>, October 3rd @ 5 PM*

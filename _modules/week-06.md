@@ -5,7 +5,7 @@ status: Active
 ---
 Sept 29
 : **14**{: .label} Sampling
-    : {{site.links.lec.slides.slide14}} <!--{{site.links.lec.demo.demo14}}-->
+    : {{site.links.lec.slides.slide14}} {{site.links.lec.demo.demo14}}
 : _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html), [10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html)
 : **Lab**{: .label .label-lab} Lab 05 <!--{{site.links.lab.lab05}}--> (Due 10/3)
 : **Discussion**{: .label .label-discussion} Worksheet 06 <!--{{site.links.wksht.wksht06}}-->

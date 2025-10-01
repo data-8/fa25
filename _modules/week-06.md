@@ -13,7 +13,7 @@ Sept 29
 
 Oct 1
 : **15**{: .label} Models
-    : <!--{{site.links.lec.slides.slide15}} {{site.links.lec.demo.demo15}}-->
+    :  {{site.links.lec.slides.slide15}} <!--{{site.links.lec.demo.demo15}}-->
 : _Reading:_ [10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html), [10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html), [10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html)
 
 

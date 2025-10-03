@@ -20,6 +20,6 @@ Oct 1
 
 Oct 3
 : **16**{: .label} Comparing Distributions
-    : <!--{{site.links.lec.slides.slide16}} {{site.links.lec.demo.demo16}}-->
+    : {{site.links.lec.slides.slide16}} <!--{{site.links.lec.demo.demo16}}-->
 : _Reading:_ [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html), [11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw06}} (Due 10/10)

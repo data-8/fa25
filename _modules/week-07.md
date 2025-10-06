@@ -6,7 +6,7 @@ status: Active
 
 Oct 6
 : **17**{: .label} Decisions and Uncertainty
-    : <!--{{site.links.lec.slides.slide17}} {{site.links.lec.demo.demo17}}-->
+    : {{site.links.lec.slides.slide17}} <!--{{site.links.lec.demo.demo17}}-->
 : _Reading:_ [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 : **Lab**{: .label .label-lab} Lab 06<!--{{site.links.lab.lab06}}--> (Due 10/10)
 : **Discussion**{: .label .label-discussion} Worksheet 07<!--{{site.links.wksht.wksht07}}-->

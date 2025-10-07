@@ -11,4 +11,4 @@ date: 2025-10-05
     * Midterm Preparation Tips [post](https://edstem.org/us/courses/83132/discussion/7068516)
     * Past Midterms [post](https://edstem.org/us/courses/83132/discussion/7067913)
 3. **Lab 04 and Homework 04 Score Release [post](https://edstem.org/us/courses/83132/discussion/7067731)**
-    * Check that your score looks correct!!
+    * Check that your score looks correct!

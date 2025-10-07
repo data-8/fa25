@@ -53,7 +53,7 @@ Exams, practice exams, and walkthrough videos from previous semesters can be fou
 
 For the Fall 2025 midterm and final, students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1vFVYNNj7Hj7vbbDHx0CANu2Sy-JGUFVL/view?usp=sharing).
 
-> **Note:** Semesters taught by Prof. Ani Adhikari, Prof. John DeNero, and/or Prof. David Wagner are marked with a 📍. These are the exams you should focus on, as they are most consistent with the learning goals of this semester.
+> **Note:** Semesters taught by Prof. Jeremy Sanchez are marked with a 📍. These are the exams you should focus on, as they are most consistent with the learning goals of this semester.
 
 {% include past-exams.md %}
 

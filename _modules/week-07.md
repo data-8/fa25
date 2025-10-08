@@ -13,7 +13,7 @@ Oct 6
 
 Oct 8
 : **18**{: .label} A/B Testing
-    : <!--{{site.links.lec.slides.slide18}} {{site.links.lec.demo.demo18}}-->
+    : {{site.links.lec.slides.slide18}} {{site.links.lec.demo.demo18}}
 : _Reading:_ [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 
 

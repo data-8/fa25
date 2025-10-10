@@ -248,6 +248,10 @@
   .btn-ed {
     @include btn-color($white, #9400D3);
   }
+
+  .btn-zoom {
+    @include btn-color($white, #355F41);
+  }
   
   .btn-bcourses {
     @include btn-color($white, #8C183B);

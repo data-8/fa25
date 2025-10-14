@@ -24,7 +24,7 @@ Created by Nishant Kheterpal and Jessica Hu; contributions by Jonathan Ferrari, 
 
 For Fall 2025, students will receive an abbreviated reference sheet for exams. 
 
-* [Past Midterm Reference Sheet](https://drive.google.com/file/d/1vFVYNNj7Hj7vbbDHx0CANu2Sy-JGUFVL/view?usp=sharing)
+* [Past Midterm Reference Sheet](https://drive.google.com/file/d/1OD3ix5Ffch5vZGaJlDX6KSwc9Dfyov-D/view)
 
 --- 
 

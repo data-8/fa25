@@ -11,7 +11,7 @@ Oct 13
 
 Oct 15
 : **21**{: .label} Midterm Review II
-    : <!--{{site.links.lec.slides.slide21}} {{site.links.lec.demo.demo21}}-->
+    : {{site.links.lec.slides.slide21}} <!--{{site.links.lec.demo.demo21}}-->
 
 Oct 17
 : **Exam**{: .label .label-exam} Midterm Exam (7 - 9 PM)

@@ -8,7 +8,7 @@ Nov 10
 : **31**{: .label} Residuals
     : <!--{{site.links.lec.slides.slide32}} {{site.links.lec.demo.demo32}}-->
 : <!--_Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)-->
-: **Lab**{: .label .label-lab} Lab 09<!--{{site.links.proj.proj2c}}--> (Due 11/7)
+: **Lab**{: .label .label-lab} Lab 09<!--{{site.links.proj.proj2c}}--> (Due 11/12)
 : **Discussion**{: .label .label-discussion} Worksheet 12<!--{{site.links.wksht.wksht11}}-->
 
 Nov 12

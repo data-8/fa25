@@ -42,7 +42,7 @@ sememster: fa25 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 8
+current_week: 9
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -234,7 +234,7 @@ links:
     wksht05: "[Worksheet 05](https://drive.google.com/file/d/18Hk2w0hvlW6558F-0W08ZyUxJHEREHc5/view?usp=sharing)"
     wksht06: "[Worksheet 06](https://drive.google.com/file/d/1-ONzcOikkTiPgvy8h2x1Tndf2ON4Qg7L/view?usp=sharing)"
     wksht07: "[Worksheet 07](https://drive.google.com/file/d/1k2hoVcKJAPMikThrIziAeUEnyohdqljn/view?usp=sharing)"
-    wksht08: "[Worksheet 08](https://drive.google.com/file/d/1KSOC_Df4GgdeXTYetq8pUj2_JInCOIrV/view?usp=sharing)"
+    wksht08: "[Worksheet 08](https://drive.google.com/file/d/1g4RKHfeJ-7MtsB_2HMF9tfK_JO5gvSfz/view?usp=sharing)"
     wksht09: "[Worksheet 09](https://drive.google.com/file/d/1fD4il3yf9nLj-a7Y10O_5YsDvK-rakIk/view?usp=sharing)"
     wksht10: "[Worksheet 10](https://drive.google.com/file/d/1NFhx-8uFEQz47OMdmKlB9DqcWFuG3JTq/view?usp=sharing)"
     wksht11: "[Worksheet 11](https://drive.google.com/file/d/1jK49IBpyYA9fnrYJnW0-omo6BspQ0TeY/view?usp=sharing)"

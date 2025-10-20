@@ -8,7 +8,7 @@ Oct 20
 : **22**{: .label} Confidence Intervals
     : {{site.links.lec.slides.slide23}} {{site.links.lec.demo.demo22}}
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
-: **Lab**{: .label .label-lab} Lab 07<!--{{site.links.lab.lab07}}--> (Due 10/24)
+: **Lab**{: .label .label-lab} {{site.links.lab.lab07}} (Due 10/24)
 : **Discussion**{: .label .label-discussion} Worksheet 09<!--{{site.links.wksht.wksht09}}-->
 
 Oct 22

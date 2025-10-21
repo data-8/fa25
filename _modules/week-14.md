@@ -5,8 +5,8 @@ status: Active
 ---
 
 Nov 24
-: **36**{: .label} Staff Panel
-    : <!--{{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}-->
+: **37**{: .label} Staff Panel
+    : <!--{{site.links.lec.slides.slide37}} {{site.links.lec.demo.demo37}}-->
 
 Nov 26
 : **Thanksgiving**{: .label} No class

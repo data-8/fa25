@@ -13,7 +13,7 @@ Oct 20
 
 Oct 22
 : **23**{: .label} Interpreting Confidence
-    : <!--{{site.links.lec.slides.slide23}} {{site.links.lec.demo.demo23}}-->
+    : {{site.links.lec.slides.slide23}} <!--{{site.links.lec.demo.demo23}}-->
 : _Reading:_ [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
 
 Oct 24

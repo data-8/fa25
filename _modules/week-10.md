@@ -8,8 +8,8 @@ Oct 27
 : **25**{: .label} The Normal Distribution
     : {{site.links.lec.slides.slide25}} {{site.links.lec.demo.demo25}}
 : _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
-: **Lab**{: .label .label-lab} Lab 08<!--{{site.links.lab.lab08}}--> (Due 10/31)
-: **Discussion**{: .label .label-discussion} Worksheet 10<!--{{site.links.wksht.wksht10}}-->
+: **Lab**{: .label .label-lab} {{site.links.lab.lab08}} (Due 10/31)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht10}}
 
 Oct 29
 : **26**{: .label} Sample Means

@@ -13,7 +13,7 @@ Oct 27
 
 Oct 29
 : **26**{: .label} Sample Means
-    : {{site.links.lec.slides.slide26}} <!--{{site.links.lec.demo.demo26}}-->
+    : {{site.links.lec.slides.slide26}} {{site.links.lec.demo.demo26}}
 : _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
 
 

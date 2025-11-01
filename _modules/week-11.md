@@ -8,6 +8,7 @@ Nov 3
 : **28**{: .label} Correlation
     : <!--{{site.links.lec.slides.slide28}} {{site.links.lec.demo.demo28}}-->
 : _Reading:_ [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
+: **Lab**{: .label .label-lab} {{site.links.proj.proj2c}} (Due 11/7)
 : **Discussion**{: .label .label-discussion} Worksheet 11<!--{{site.links.wksht.wksht11}}-->
 
 Nov 5

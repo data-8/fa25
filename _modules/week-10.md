@@ -22,4 +22,4 @@ Oct 31
   : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
 : _Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw08}} (Due 11/5)
-: **Project**{: .label .label-project} Project 2: Climate<!--{{site.links.proj.proj2}}--> (Checkpoint Due 11/7, Entire Project Due 11/14)
+: **Project**{: .label .label-project} {{site.links.proj.proj2}} (Checkpoint Due 11/7, Entire Project Due 11/14)

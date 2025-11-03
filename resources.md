@@ -10,50 +10,39 @@ nav_order: 5
 
 # **Resources**
 
-## Table of Contents
-{: .no_toc .text-delta }
+[Student Materials Folder](https://drive.google.com/drive/folders/1AmzlJvYWk8Ufiplo0duGPt39NhFWspRE?usp=drive_link)
 
-1. TOC
-{:toc}
+All official course materials (including Discussion and Tutoring worksheets) can be found in the above folder. These will be updated throughout the semester.
 
 
----
+## Notes
 
-## Materials
+These notes serve as supplementary readings and may not necessarily align with lecture and textbook content. These notes aim to serve as a concise overview of course content, which you may find helpful during exam preparation or as a quick refresher.
 
-### Student Materials Folder
+- [Sampling](https://drive.google.com/file/d/16fIxluoOgr-BfKq_YdUFd3z3zEmwtsRk/view?usp=drive_link){:target="\_blank"}
 
-We will post student materials in [this folder](https://drive.google.com/drive/folders/1AmzlJvYWk8Ufiplo0duGPt39NhFWspRE?usp=drive_link){:target="\_blank"} throughout the semester.
 
-### Guides
+## Other Resources
 
+- [JupyterHub Tips](https://drive.google.com/file/d/1vA4x3RIwCq8jY4KvTRpqrnmASS7Se1Bn/view?usp=sharing){:target="\_blank"}
 - [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing){:target="\_blank"}
 - [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing){:target="\_blank"}
-- [Confidence Intervals](https://drive.google.com/file/d/1MTHu81FjF2SKps4a6x_N_sMWcFs2APx4/view?usp=sharing){:target="\_blank"}
-- [JupyterHub Tips](https://drive.google.com/file/d/1vA4x3RIwCq8jY4KvTRpqrnmASS7Se1Bn/view?usp=sharing){:target="\_blank"}
-- [Sampling Methods](https://drive.google.com/file/d/1k8uNN0Bg7J0BTgK-0Z5glDNtd_5FTJQl/view?usp=sharing){:target="\_blank"}
 - [Table Functions](https://drive.google.com/file/d/1j2hjhweJdGWW0EdvmjGHsXFUatXIZax4/view?usp=sharing){:target="\_blank"}
+- [Confidence Intervals](https://drive.google.com/file/d/1MTHu81FjF2SKps4a6x_N_sMWcFs2APx4/view?usp=sharing){:target="\_blank"}
 - [Hypothesis Testing](https://drive.google.com/file/d/1s9e252XRIUYxNeI8dNG4D0f8B9iwEv6x/view?usp=sharing){:target="\_blank"}
-
-### Table Resources
-
 - [Table Function Visualizer](https://www.data8.org/interactive_table_functions/){:target="\_blank"}
-
-### Supplemental Videos
-
 - [Group Animation](https://youtu.be/HLoYTCUP0fc?si=J160YHimo01SVKl0){:target="\_blank"}
 - [Join Animation](https://youtu.be/ZGPlcpACNC0?si=nbxrVsBC7hGgV8-n){:target="\_blank"}
 - [Pivot Animation](https://youtu.be/4WzXo8eKLAg?si=dWrB6Vedh041wV-N){:target="\_blank"}
+
 
 ## Exam Resources
 
 ### Past Exams
 
-Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
+Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ in terms of material covered and syntax used, as the datascience library has changed over time.
 
-For the Fall 2025 midterm and final, students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1vFVYNNj7Hj7vbbDHx0CANu2Sy-JGUFVL/view?usp=sharing).
-
-> **Note:** Semesters taught by Prof. Jeremy Sanchez are marked with a 📍. These are the exams you should focus on, as they are most consistent with the learning goals of this semester.
+For the Fall 2025 midterm, students received this [reference sheet](https://drive.google.com/file/d/1OD3ix5Ffch5vZGaJlDX6KSwc9Dfyov-D/view?usp=drive_link).
 
 {% include past-exams.md %}
 

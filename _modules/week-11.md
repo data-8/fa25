@@ -5,7 +5,7 @@ status: Active
 ---
 
 Nov 3
-: **28**{: .label} Correlation
+: **28**{: .label} Numerical Associations
     : {{site.links.lec.slides.slide28}} <!--{{site.links.lec.demo.demo28}}-->
 : _Reading:_ [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
 : **Lab**{: .label .label-lab} {{site.links.proj.proj2c}} (Due 11/7)

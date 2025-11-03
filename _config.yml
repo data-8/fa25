@@ -42,7 +42,7 @@ sememster: fa25 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 10
+current_week: 11
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -274,8 +274,8 @@ links:
       demo22: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec22/lec22.ipynb&branch=main)"
       demo23: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec23/lec23.ipynb&branch=main)"
       demo24: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec24/lec24.ipynb&branch=main)"
-      demo25: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-sp25&urlpath=tree/materials-sp25/lec/lec25/lec25.ipynb&branch=main)"
-      demo26: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-sp25&urlpath=tree/materials-sp25/lec/lec26/lec26.ipynb&branch=main)"
+      demo25: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec25/lec25.ipynb&branch=main)"
+      demo26: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec26/lec26.ipynb&branch=main)"
       demo27: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec27/lec27.ipynb&branch=main)"
       demo28: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec28/lec28.ipynb&branch=main)"
       demo29: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-fa25&urlpath=tree/materials-fa25/lec/lec29/lec29.ipynb&branch=main)"

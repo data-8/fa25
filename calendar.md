@@ -14,7 +14,7 @@ UC Berkeley, Fall 2025
 
 [Ed](https://edstem.org/us/courses/83132/discussion){: .btn .btn-ed}
 [Pensieve](https://www.pensieve.co/student/classes/data8_fa25/my-assignments){: .btn .btn-pensieve}
-[Zoom](https://berkeley.zoom.us/j/99823469216){: .btn .btn-zoom}
+[Zoom](https://berkeley.zoom.us/j/99133083020){: .btn .btn-zoom}
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1547037/external_tools/90481){: .btn .btn-bcourses}
 [Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
 [Extensions](https://forms.gle/8bC3hu2334NY3EHe9){: .btn .btn-extensions}

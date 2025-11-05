@@ -13,7 +13,7 @@ Nov 3
 
 Nov 5
 : **29**{: .label} Linear Regression
-    : {{site.links.lec.slides.slide29}} <!--{{site.links.lec.demo.demo29}}-->
+    : {{site.links.lec.slides.slide29}} {{site.links.lec.demo.demo29}}
 : _Reading:_ [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
 
 Nov 7

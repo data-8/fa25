@@ -18,6 +18,6 @@ Nov 5
 
 Nov 7
 : **30**{: .label} Least Squares
-  : <!--{{site.links.lec.slides.slide30}} {{site.links.lec.demo.demo30}}-->
+  : {{site.links.lec.slides.slide30}} <!--{{site.links.lec.demo.demo30}}-->
 : _Reading:_ [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw09}} (Due 11/12)

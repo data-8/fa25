@@ -9,7 +9,7 @@ date: 2025-11-9
     * {{site.links.proj.proj2}} 
         * Everything is due on *<u>Friday</u>, November 14th @ 5 PM*
         * Make sure to add your project partner to your autograder submission! Partners will be automatically added to your written work submissions
-    * Lab 09 is due on *<u>Friday</u>, November 14th @ 5 PM*
+    * {{site.links.lab.lab09}} is due on *<u>Friday</u>, November 14th @ 5 PM*
     * Homework 10 is due on *<u>Wednesday</u>, November 19th @ 10 AM*
 2. **Project 2 Parties this week**
     * Monday, November 10th from 6-8pm @ Evans B6

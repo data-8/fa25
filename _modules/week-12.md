@@ -13,7 +13,7 @@ Nov 10
 
 Nov 12
 : **32**{: .label} Regression Inference
-    : {{site.links.lec.slides.slide32}} <!--{{site.links.lec.demo.demo32}}-->
+    : {{site.links.lec.slides.slide32}} {{site.links.lec.demo.demo32}}
 : _Reading:_ [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
 
 Nov 14

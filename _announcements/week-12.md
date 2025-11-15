@@ -11,7 +11,7 @@ date: 2025-11-9
         * Make sure to add your project partner to your autograder submission! Partners will be automatically added to your written work submissions
     * {{site.links.lab.lab09}} is due on *<u>Friday</u>, November 14th @ 5 PM*
     * {{site.links.hw.hw10}} is due on *<u>Wednesday</u>, November 19th @ 10 AM*
-    * Project 3: Movie Classification
+    * {{site.links.proj.proj3}}
         * Checkpoint is due on *<u>Friday</u>, November 21st @ 5 PM*
         * Everything is due on *<u>Friday</u>, December 5th @ 5 PM*
 2. **Project 2 Parties this week**

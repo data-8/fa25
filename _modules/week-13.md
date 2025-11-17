@@ -6,10 +6,10 @@ status: Active
 
 Nov 17
 : **34**{: .label} Implementing Classifiers
-    : <!--{{site.links.lec.slides.slide34}} {{site.links.lec.demo.demo34}}-->
+    : {{site.links.lec.slides.slide34}} {{site.links.lec.demo.demo34}}
 : _Reading:_ [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html), [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 : **Lab**{: .label .label-lab} {{site.links.proj.proj3c}} (Due 11/21)
-: **Discussion**{: .label .label-discussion} Worksheet 13<!--{{site.links.wksht.wksht13}}-->
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht13}}
 
 Nov 19
 : **35**{: .label} Evaluating Classifiers 

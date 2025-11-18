@@ -13,7 +13,7 @@ Dec 1
 : **Homework**{: .label .label-homework} Homework 12<!--{{site.links.hw.hw12}}--> (Due 12/10)
 
 Dec 3
-: **39**{: .label} Case Study: Computer Vision
+: **39**{: .label} Staff Panel
     : <!--{{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}-->
 
 Dec 5

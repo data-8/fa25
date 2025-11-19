@@ -13,7 +13,7 @@ Nov 17
 
 Nov 19
 : **35**{: .label} Evaluating Classifiers 
-    : <!--{{site.links.lec.slides.slide35}} {{site.links.lec.demo.demo35}}-->
+    : {{site.links.lec.slides.slide35}} <!--{{site.links.lec.demo.demo35}}-->
 : _Reading:_ [17.5](https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html)
 
 Nov 21

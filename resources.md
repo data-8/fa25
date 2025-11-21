@@ -20,6 +20,7 @@ All official course materials (including Discussion and Tutoring worksheets) can
 These notes serve as supplementary readings and may not necessarily align with lecture and textbook content. These notes aim to serve as a concise overview of course content, which you may find helpful during exam preparation or as a quick refresher.
 
 - [Sampling](https://drive.google.com/file/d/16fIxluoOgr-BfKq_YdUFd3z3zEmwtsRk/view?usp=drive_link){:target="\_blank"}
+- [Variability of Samples](https://drive.google.com/file/d/16H_RaVj-OFZ2XCoZYblb5vul33o0NLLm/view?usp=drive_link){:target="\_blank"}
 - [Confidence Intervals](https://drive.google.com/file/d/1x6CR28ihppaglF8DNxTU4IQwum62lOQ1/view?usp=drive_link){:target="\_blank"}
 
 

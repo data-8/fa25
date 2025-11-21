@@ -20,6 +20,7 @@ All official course materials (including Discussion and Tutoring worksheets) can
 These notes serve as supplementary readings and may not necessarily align with lecture and textbook content. These notes aim to serve as a concise overview of course content, which you may find helpful during exam preparation or as a quick refresher.
 
 - [Sampling](https://drive.google.com/file/d/16fIxluoOgr-BfKq_YdUFd3z3zEmwtsRk/view?usp=drive_link){:target="\_blank"}
+- [Variability of Samples](https://drive.google.com/file/d/16H_RaVj-OFZ2XCoZYblb5vul33o0NLLm/view?usp=drive_link){:target="\_blank"}
 - [Confidence Intervals](https://drive.google.com/file/d/1x6CR28ihppaglF8DNxTU4IQwum62lOQ1/view?usp=drive_link){:target="\_blank"}
 
 
@@ -27,13 +28,8 @@ These notes serve as supplementary readings and may not necessarily align with l
 
 - [JupyterHub Tips](https://drive.google.com/file/d/1vA4x3RIwCq8jY4KvTRpqrnmASS7Se1Bn/view?usp=sharing){:target="\_blank"}
 - [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing){:target="\_blank"}
-- [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing){:target="\_blank"}
-- [Table Functions](https://drive.google.com/file/d/1j2hjhweJdGWW0EdvmjGHsXFUatXIZax4/view?usp=sharing){:target="\_blank"}
-- [Hypothesis Testing](https://drive.google.com/file/d/1s9e252XRIUYxNeI8dNG4D0f8B9iwEv6x/view?usp=sharing){:target="\_blank"}
-- [Table Function Visualizer](https://www.data8.org/interactive_table_functions/){:target="\_blank"}
-- [Group Animation](https://youtu.be/HLoYTCUP0fc?si=J160YHimo01SVKl0){:target="\_blank"}
-- [Join Animation](https://youtu.be/ZGPlcpACNC0?si=nbxrVsBC7hGgV8-n){:target="\_blank"}
-- [Pivot Animation](https://youtu.be/4WzXo8eKLAg?si=dWrB6Vedh041wV-N){:target="\_blank"}
+- Tables: [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing){:target="\_blank"}, [Table Method Visualizer](https://www.data8.org/interactive_table_functions/){:target="\_blank"}, [Table Methods](https://drive.google.com/file/d/1j2hjhweJdGWW0EdvmjGHsXFUatXIZax4/view?usp=sharing){:target="\_blank"}
+- Table Method Animations: [Group Animation](https://youtu.be/HLoYTCUP0fc?si=J160YHimo01SVKl0){:target="\_blank"}, [Join Animation](https://youtu.be/ZGPlcpACNC0?si=nbxrVsBC7hGgV8-n){:target="\_blank"}, [Pivot Animation](https://youtu.be/4WzXo8eKLAg?si=dWrB6Vedh041wV-N){:target="\_blank"}
 
 
 ## Exam Resources

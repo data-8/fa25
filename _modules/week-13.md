@@ -18,6 +18,6 @@ Nov 19
 
 Nov 21
 : **36**{: .label} Multiple Linear Regression
-    : {{site.links.lec.slides.slide36}} <!--{{site.links.lec.demo.demo36}}-->
+    : {{site.links.lec.slides.slide36}} {{site.links.lec.demo.demo36}}
 : _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw11}} (Due 11/26)

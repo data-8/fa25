@@ -28,13 +28,8 @@ These notes serve as supplementary readings and may not necessarily align with l
 
 - [JupyterHub Tips](https://drive.google.com/file/d/1vA4x3RIwCq8jY4KvTRpqrnmASS7Se1Bn/view?usp=sharing){:target="\_blank"}
 - [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing){:target="\_blank"}
-- [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing){:target="\_blank"}
-- [Table Functions](https://drive.google.com/file/d/1j2hjhweJdGWW0EdvmjGHsXFUatXIZax4/view?usp=sharing){:target="\_blank"}
-- [Hypothesis Testing](https://drive.google.com/file/d/1s9e252XRIUYxNeI8dNG4D0f8B9iwEv6x/view?usp=sharing){:target="\_blank"}
-- [Table Function Visualizer](https://www.data8.org/interactive_table_functions/){:target="\_blank"}
-- [Group Animation](https://youtu.be/HLoYTCUP0fc?si=J160YHimo01SVKl0){:target="\_blank"}
-- [Join Animation](https://youtu.be/ZGPlcpACNC0?si=nbxrVsBC7hGgV8-n){:target="\_blank"}
-- [Pivot Animation](https://youtu.be/4WzXo8eKLAg?si=dWrB6Vedh041wV-N){:target="\_blank"}
+- Tables: [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing){:target="\_blank"}, [Table Method Visualizer](https://www.data8.org/interactive_table_functions/){:target="\_blank"}, [Table Methods](https://drive.google.com/file/d/1j2hjhweJdGWW0EdvmjGHsXFUatXIZax4/view?usp=sharing){:target="\_blank"}
+- Table Method Animations: [Group Animation](https://youtu.be/HLoYTCUP0fc?si=J160YHimo01SVKl0){:target="\_blank"}, [Join Animation](https://youtu.be/ZGPlcpACNC0?si=nbxrVsBC7hGgV8-n){:target="\_blank"}, [Pivot Animation](https://youtu.be/4WzXo8eKLAg?si=dWrB6Vedh041wV-N){:target="\_blank"}
 
 
 ## Exam Resources

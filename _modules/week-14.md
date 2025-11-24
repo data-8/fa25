@@ -6,7 +6,7 @@ status: Active
 
 Nov 24
 : **37**{: .label} Surprise
-    : <!--{{site.links.lec.slides.slide37}} {{site.links.lec.demo.demo37}}-->
+    : {{site.links.lec.slides.slide37}} <!--{{site.links.lec.demo.demo37}}-->
 
 Nov 26
 : **Thanksgiving**{: .label} No class

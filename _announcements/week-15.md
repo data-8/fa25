@@ -1,0 +1,19 @@
+---
+title: Week 15 Announcements
+week: 15
+date: 2025-11-30
+---
+
+1. **Assignments Due**
+    * {{site.links.proj.proj3}} is due on *<u>Friday</u>, December 5th @ 5 PM*
+    * Lab 10 is due on *<u>Friday</u>, December 5th @ 5 PM*
+    * Homework 12 is due on *<u>Wednesday</u>, December 10th @ 10 AM*
+    * Homework 13 is due on *<u>Wednesday</u>, December 10th @ 10 AM*
+2. **Project 3 Parties**
+    * *<u>Tuesday</u>, December 2nd from 6-8pm @ SOCS 140*
+    * *<u>Wednesday</u>, December 3rd from 6-8pm @ Evans B6*
+3. **Jupytutor in Lab 10**
+    * Jupytutor is Data 8's new AI chatbot for Jupyter Notebooks created by Kevin Gillespie
+    * Fill out the Jupytutor feedback form at the end of Lab 10 to tell us what you think!
+4. **Lab 09, Homework 09, Project 2 Checkpoint Score Release [post](https://edstem.org/us/courses/83132/discussion/7352668)**
+    * Check that your score looks correct!

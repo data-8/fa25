@@ -12,8 +12,8 @@ date: 2025-11-30
 2. **Project 3 Parties**
     * *<u>Tuesday</u>, December 2nd from 6-8pm @ SOCS 140*
     * *<u>Wednesday</u>, December 3rd from 6-8pm @ Evans B6*
-3. **Jupytutor in Lab 10**
-    * Jupytutor is Data 8's new AI chatbot for Jupyter Notebooks created by Kevin Gillespie
-    * Fill out the Jupytutor feedback form at the end of Lab 10 to tell us what you think!
+3. **JupyTutor in Lab 10**
+    * JupyTutor is Data 8's new AI chatbot for Jupyter Notebooks created by Kevin Gillespie
+    * Fill out the JupyTutor feedback form at the end of Lab 10 to tell us what you think!
 4. **Lab 09, Homework 09, Project 2 Checkpoint Score Release [post](https://edstem.org/us/courses/83132/discussion/7352668)**
     * Check that your score looks correct!

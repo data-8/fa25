@@ -14,7 +14,7 @@ Dec 1
 
 Dec 3
 : **39**{: .label} Staff Panel
-    : <!--{{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}-->
+    : {{site.links.lec.slides.slide39}}
 
 Dec 5
 : **40**{: .label} Conclusion

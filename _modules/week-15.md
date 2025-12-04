@@ -19,4 +19,4 @@ Dec 3
 Dec 5
 : **40**{: .label} Conclusion
   : <!--{{site.links.lec.slides.slide40}} {{site.links.lec.demo.demo40}}-->
-: **Homework**{: .label .label-homework} Homework 13<!--{{site.links.hw.hw12}}--> (Due 12/10)
+: **Homework**{: .label .label-homework} {{site.links.hw.hw13}} (Due 12/10)

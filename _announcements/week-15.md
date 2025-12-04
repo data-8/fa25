@@ -8,7 +8,7 @@ date: 2025-11-30
     * {{site.links.proj.proj3}} is due on *<u>Friday</u>, December 5th @ 5 PM*
     * {{site.links.lab.lab10}} is due on *<u>Friday</u>, December 5th @ 5 PM*
     * {{site.links.hw.hw12}} is due on *<u>Wednesday</u>, December 10th @ 10 AM*
-    * Homework 13 is due on *<u>Wednesday</u>, December 10th @ 10 AM*
+    * {{site.links.hw.hw13}} is due on *<u>Wednesday</u>, December 10th @ 10 AM*
 2. **Project 3 Parties**
     * *<u>Tuesday</u>, December 2nd from 6-8pm @ SOCS 140*
     * *<u>Wednesday</u>, December 3rd from 6-8pm @ Evans B6*

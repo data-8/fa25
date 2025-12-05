@@ -290,7 +290,8 @@
 
 .py-ref-table {
   table-layout: fixed;
-  width: 100%;
+  overflow-x: auto;
+  display: block;
 
   th:nth-child(1),
   td:nth-child(1) {

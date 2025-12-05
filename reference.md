@@ -137,7 +137,7 @@ These are functions in the `datascience` library that are used in the course tha
 
 ## Histogram Bounds Language
 
-Histogram bins include the data at their left endpoint, but not the data at their right endpoint, except for the rightmost bin which includes both endpoints. When we ask you questions relating to ranges of values in the bins of histograms, we will use one of the three phrases below.
+Histogram bins include the data at their left endpoint, but not the data at their right endpoint. The only exception is the rightmost bin, which includes *both* endpoints. When we ask you questions relating to ranges of values in the bins of histograms, we will use one of the three phrases below.
 
 | **Phrase** | **Interpretation** |
 | Between x and y | Greater than or equal to x and less than y |

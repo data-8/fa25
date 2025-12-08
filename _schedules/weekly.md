@@ -19,7 +19,14 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
   - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
   - '8:00 PM'
+  - '8:30 PM'
+  - '9:00 PM'
+  - '9:30 PM'
+  - '10:00 PM'
 schedule:
   - name: Monday
     events:
@@ -27,40 +34,25 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: Wheeler 150
-      - name: Office Hours
-        start: 1:00 PM
-        end: 5:00 PM
-        location: Warren 101-B
   - name: Tuesday
     events:
-      - name: Office Hours (Online)
-        start: 9:00 AM
-        end: 10:00 AM
-        location: oh.data8.org
-      - name: Office Hours
-        start: 10:00 AM
-        end: 4:00 PM
-        location: Warren 101-B
-      - name: Office Hours (Online)
-        start: 4:00 PM
-        end: 5:00 PM
-        location: oh.data8.org
   - name: Wednesday
     events:
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
         location: Wheeler 150
-      - name: Office Hours (Online)
-        start: 1:00 PM
-        end: 4:00 PM
-        location: oh.data8.org
+
   - name: Thursday
     events:  
       - name: Office Hours
         start: 12:00 PM
         end: 3:00 PM
         location: Warren 101-B
+      - name: Review Session I
+        start: 8:00 PM
+        end: 10:00 PM
+        location: Wheeler 150
   - name: Friday
     events:
       - name: Lecture
@@ -75,4 +67,8 @@ schedule:
         start: 12:00 PM
         end: 3:00 PM
         location: Warren 101-B
+      - name: Review Session II
+        start: 5:00 PM
+        end: 7:00 PM
+        location: Wheeler 150
 ---

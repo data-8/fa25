@@ -10,7 +10,7 @@ Dec 8
 
 Dec 10
 : **42**{: .label} RRR Review II
-    : <!--{{site.links.lec.slides.slide42}} {{site.links.lec.demo.demo42}}-->
+    : {{site.links.lec.slides.slide42}} <!--{{site.links.lec.demo.demo42}}-->
 
 Dec 12
 : **43**{: .label} RRR Review III

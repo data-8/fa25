@@ -14,4 +14,4 @@ Dec 10
 
 Dec 12
 : **43**{: .label} RRR Review III
-  : <!--{{site.links.lec.slides.slide43}} {{site.links.lec.demo.demo43}}-->
+  : {{site.links.lec.slides.slide43}} {{site.links.lec.demo.demo43}}

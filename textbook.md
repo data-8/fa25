@@ -1,5 +1,4 @@
 ---
-layout: None
 title: 📖 Textbook
 description: Link to textbook.
 nav_order: 10

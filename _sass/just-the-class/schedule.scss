@@ -115,6 +115,12 @@
 
     &.office-hours-online {
       background-color: darken($blue-200, 10%);
+    } 
+    &.review-session-i {
+      background-color: darken($purple-000, 15%);
+    }
+    &.review-session-ii {
+      background-color: darken($purple-000, 15%);
     }
   }
 }
